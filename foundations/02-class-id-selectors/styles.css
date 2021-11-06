@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(rgba(255, 0, 157, 0.507), green, blue);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#evenblue {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.odd.cooler{
+    font-size: 24px;
+}
+
+#evengreen {
+    background-color: hsl(green, 100%, 80%);
+    font-size: 24px;
+    font-weight: bold;
+}
