@@ -28,7 +28,7 @@ div.text {
   color: green;
   font-size: 28px;
 }
-div.child {
+div .child {
     color: red;
     font-size: 14px;
   }
